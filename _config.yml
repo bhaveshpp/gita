@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            "ગીતા"
+longtitle:        "ભગવદ ગીતા"
+author:           "ભાવેશ પ્રજાપતિ"
+email:            "bhaveshpp11@gmail.com"
 description: >
-  Build Jekyll site with the GitBook style.
+  "જીવન જીવવા માટે ની GIDE એ પણ સ્વયં પૂર્ણ પુરષોતમ પરમેશ્વર ના મુખે."
 
 version:          1.0
 gitbook_version:  3.2.3
@@ -12,9 +12,6 @@ gitbook_version:  3.2.3
 url:              'https://sighingnow.github.io'
 baseurl:          '/jekyll-gitbook'
 rss:              RSS
-
-# bootstrap: use the remote theme for the site itself
-remote_theme: sighingnow/jekyll-gitbook
 
 toc:
   enabled: true
@@ -43,9 +40,6 @@ markdown_ext:             markdown,mkdown,mkdn,mkd,md
 # Permalinks
 permalink:                /:categories/:year-:month-:day-:title:output_ext
 
-# Disqus comments
-# disqushandler:            sighingnow
-
 exclude:
   - _drafts
 
@@ -64,3 +58,10 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+
+# Languages configuration
+languages:
+  en:
+    output: true
+  gu:
+    output: true
