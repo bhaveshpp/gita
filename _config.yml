@@ -1,16 +1,15 @@
 # Configurations
-title:            "ગીતા"
-longtitle:        "ભગવદ ગીતા"
-author:           "ભાવેશ પ્રજાપતિ"
-email:            "bhaveshpp11@gmail.com"
+title:            ભગવદ્ ગીતા
+longtitle:        પરમ પિતા પરમેશ્વર ની વાણી 
+author:           ભાવેશ પ્રજાપતિ
+email:            bhaveshp.magento@gmail.com
 description: >
-  "જીવન જીવવા માટે ની GIDE એ પણ સ્વયં પૂર્ણ પુરષોતમ પરમેશ્વર ના મુખે."
-
+  જીવન જીવવા માટે ની માર્ગદર્શિકા એ પણ સ્વયં પૂર્ણ પુરષોતમ પરમેશ્વર ના મુખે.
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://bhaveshpp.github.io/gita/'
+baseurl:          ''
 rss:              RSS
 
 toc:
@@ -22,46 +21,34 @@ toc:
 favicon_path:     /assets/gitbook/images/favicon.ico
 
 # markdown render engine.
-markdown:         kramdown
+markdown: kramdown
 kramdown:
-  auto_ids:               true
-  input:                  GFM
-  math_engine:            mathjax
-  smart_quotes:           lsquo,rsquo,ldquo,rdquo
-  toc_levels:             1..6
-  syntax_highlighter:     rouge
+  auto_ids: true
+  input: GFM
+  math_engine: mathjax
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  toc_levels: 1..6
+  syntax_highlighter: rouge
   syntax_highlighter_opts:
-    guess_lang:           true
+    guess_lang: true
 
 syntax_highlighter_style: colorful
 
-markdown_ext:             markdown,mkdown,mkdn,mkd,md
+markdown_ext: markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:                /:categories/:year-:month-:day-:title:output_ext
+permalink: /:categories/:title
 
 exclude:
   - _drafts
 
 collections:
-  pages:
+  adhyay:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:path
 
 page_width: 800px
 
 destination:      ./_site
 incremental:      false
 regenerate:       true
-
-plugins:
-  - jekyll-feed
-  - jekyll-readme-index
-  - jemoji
-
-# Languages configuration
-languages:
-  en:
-    output: true
-  gu:
-    output: true
