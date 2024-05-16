@@ -4,6 +4,7 @@ author: ભાવેશ પ્રજાપતિ
 date: 2024-05-09
 category: Jekyll
 layout: post
+permalink: adhyay/1
 ---
 
 `ૐ શ્રી પરમાત્મને નમઃ`

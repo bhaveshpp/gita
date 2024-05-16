@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ભગવદ્ ગીતા
+title: શ્રીમદ્ ભગવદ્ ગીતા
 permalink: /
 ---
 
