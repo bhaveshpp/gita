@@ -37,7 +37,8 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{site.baseurl}}/assets/gitbook/images/apple-touch-icon-precomposed-152.png">
-<link rel="shortcut icon" href="{{site.baseurl}}/{{site.favicon_path}}" type="image/x-icon">
+<link rel="shortcut icon" href="{{site.baseurl}}{{site.favicon_path}}" type="image/x-icon">
+<link rel="manifest" href="{{site.baseurl}}{{site.manifest_path}}">
 
 {% if site.extra_css %}
     {%- for extra_css in site.extra_css -%}
@@ -70,3 +71,12 @@
     {%- endif -%}
 
 {%- endif -%}
+<script>
+    if ('serviceWorker'in navigator) {
+        navigator.serviceWorker.register('{{site.baseurl}}/assets/sw.js').then(function(registration) {
+            console.log('Service Worker registered with scope:', registration.scope);
+        }).catch(function(error) {
+            console.error('Service Worker registration failed:', error);
+        });
+    }
+</script>

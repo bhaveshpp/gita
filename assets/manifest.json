@@ -1,0 +1,31 @@
+{
+    "name": "શ્રી ગીતાજી",
+    "short_name": "ગીતાજી",
+    "description": "Guidance for life's journey",
+    "start_url": "https://bhaveshpp.github.io/gita/index.html",
+    "display": "standalone",
+    "background_color": "#c39b6b",
+    "theme_color": "#c39b6b",
+    "icons": [
+        {
+            "src": "android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "android-chrome-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        }
+    ],
+    "serviceworker": {
+        "src": "sw.js",
+        "scope": "/"
+    }
+}
