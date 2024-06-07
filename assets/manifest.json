@@ -1,11 +1,11 @@
 {
     "name": "શ્રી ગીતાજી",
     "short_name": "ગીતાજી",
-    "description": "Guidance for life's journey",
+    "description": "LIFE Guid BY GOD",
     "start_url": "https://bhaveshpp.github.io/gita/index.html",
     "display": "standalone",
-    "background_color": "#c39b6b",
-    "theme_color": "#c39b6b",
+    "background_color": "#971338",
+    "theme_color": "#971338",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
