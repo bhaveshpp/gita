@@ -50,6 +50,9 @@ collections:
   ram:
     output: true
     permalink: /:path
+  other:
+    output: true
+    permalink: /:path
 
 page_width: 800px
 
