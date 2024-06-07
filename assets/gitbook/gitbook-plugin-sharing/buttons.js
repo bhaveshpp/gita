@@ -56,9 +56,9 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
                 window.open('http://www.instapaper.com/text?u='+encodeURIComponent(location.href));
             }
         },
-        'vk': {
-            'label': 'VK',
-            'icon': 'fa fa-vk',
+        'whatsapp': {
+            'label': 'Whatsapp',
+            'icon': 'fa fa-whatsapp',
             'onClick': function(e) {
                 e.preventDefault();
                 window.open('http://vkontakte.ru/share.php?url='+encodeURIComponent(location.href));
