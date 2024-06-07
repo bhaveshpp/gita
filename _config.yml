@@ -47,6 +47,9 @@ collections:
   adhyay:
     output: true
     permalink: /:path
+  ram:
+    output: true
+    permalink: /:path
 
 page_width: 800px
 
