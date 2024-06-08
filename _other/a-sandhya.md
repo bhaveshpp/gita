@@ -8,7 +8,7 @@ permalink: other/sandhya
 # cover: https://bhaveshpp.github.io/gita/assets/dinosaur.gif
 ---
 
-## (૧) ઉઠતી વખતે: , , 
+## (૧) ઉઠતી વખતે: 
 
 > કર દર્શન:
 
