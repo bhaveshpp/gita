@@ -4,7 +4,7 @@ author: ભાવેશ પ્રજાપતિ
 date: 2024-05-09
 category: Jekyll
 layout: post
-permalink: adhyay/2
+permalink: adhyay/4
 # cover: https://bhaveshpp.github.io/gita/assets/dinosaur.gif
 ---
 
