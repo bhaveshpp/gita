@@ -27,7 +27,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -35,7 +34,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 योगारूढस्य तस्यैव शमः कारणमुच्यते ॥6.3॥
 ```
 >
-
 
 ----------
 
@@ -45,7 +43,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -53,7 +50,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ॥6.5॥
 ```
 >
-
 
 ----------
 
@@ -63,7 +59,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -71,7 +66,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 शीतोष्णसुखदुःखेषु तथा मानापमानयोः ॥6.7॥
 ```
 >
-
 
 ----------
 
@@ -81,7 +75,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -89,7 +82,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 साधुष्वपि च पापेषु समबुद्धिर्विशिष्यते ॥6.9॥
 ```
 >
-
 
 ----------
 
@@ -99,7 +91,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -107,7 +98,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् ॥6.11॥
 ```
 >
-
 
 ----------
 
@@ -117,7 +107,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -125,7 +114,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 संप्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ॥6.13॥
 ```
 >
-
 
 ----------
 
@@ -135,7 +123,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -143,7 +130,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ॥6.15॥
 ```
 >
-
 
 ----------
 
@@ -153,7 +139,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -161,7 +146,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 युक्तस्वप्नावबोधस्य योगो भवति दुःखहा ॥6.17॥
 ```
 >
-
 
 ----------
 
@@ -171,7 +155,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -179,7 +162,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 योगिनो यतचित्तस्य युञ्जतो योगमात्मनः ॥6.19॥
 ```
 >
-
 
 ----------
 
@@ -189,7 +171,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -197,7 +178,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 वेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः ॥6.21॥
 ```
 >
-
 
 ----------
 
@@ -207,7 +187,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -215,7 +194,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा ॥6.23॥
 ```
 >
-
 
 ----------
 
@@ -225,7 +203,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -233,7 +210,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 आत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत् ॥6.25॥
 ```
 >
-
 
 ----------
 
@@ -243,7 +219,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -251,7 +226,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 उपैति शान्तरजसं ब्रह्मभूतमकल्मषम् ॥6.27॥
 ```
 >
-
 
 ----------
 
@@ -261,7 +235,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -269,7 +242,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः ॥6.29॥
 ```
 >
-
 
 ----------
 
@@ -279,7 +251,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -288,7 +259,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -296,7 +266,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 सुखं वा यदि वा दुःखं सः योगी परमो मतः ॥6.32॥
 ```
 >
-
 
 ----------
 
@@ -317,7 +286,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -336,7 +304,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 वश्यात्मना तु यतता शक्योऽवाप्‍तुमुपायत: ॥6.36॥
 ```
 >
-
 
 ----------
 
@@ -357,7 +324,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -365,7 +331,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 त्वदन्य: संशयस्यास्य छेत्ता न ह्युपपद्यते ॥6.39॥
 ```
 >
-
 
 ----------
 
@@ -386,7 +351,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -394,7 +358,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 एतद्धि दुर्लभतरं लोके जन्म यदीदृशम् ॥6.42॥
 ```
 >
-
 
 ----------
 
@@ -404,7 +367,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -412,7 +374,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते ॥6.44॥
 ```
 >
-
 
 ----------
 
@@ -422,7 +383,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -431,7 +391,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ```
 >
 
-
 ----------
 
 ```
@@ -439,7 +398,6 @@ cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 श्रद्धावान्भजते यो मां स मे युक्ततमो मत: ॥6.47॥
 ```
 >
-
 
 ----------
 

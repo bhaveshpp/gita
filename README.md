@@ -2,6 +2,7 @@
 layout: home
 title: શ્રીમદ્-ભગવદ્-ગીતા
 permalink: /
+cover: https://bhaveshpp.github.io/gita/assets/ka1.jpg
 ---
 
 > नारायणं नमस्कृत्य नरं चैव नरोत्तमम् ।

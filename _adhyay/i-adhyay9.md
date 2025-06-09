@@ -5,7 +5,7 @@ date: 2024-05-09
 category: Jekyll
 layout: post
 permalink: adhyay/9
-# cover: https://bhaveshpp.github.io/gita/assets/dinosaur.gif
+cover: https://bhaveshpp.github.io/gita/assets/ka2.jpg
 ---
 
 ----------
