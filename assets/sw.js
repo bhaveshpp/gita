@@ -60,9 +60,9 @@ self.addEventListener('activate', event=>{
 }
 );
 
-// Notification.requestPermission(function(status) {
-//     console.log('Notification permission status:', status);
-// });
-// if (Notification.permission === 'granted') {
-//     new Notification('જય શ્રી કૃષ્ણ!');
-// }
+Notification.requestPermission(function(status) {
+    console.log('Notification permission status:', status);
+});
+if (Notification.permission === 'granted') {
+    new Notification('જય શ્રી કૃષ્ણ!');
+}
