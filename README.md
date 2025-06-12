@@ -1,6 +1,6 @@
 ---
 layout: home
-title: શ્રીમદ્ ભગવદ્ ગીતા
+title: મહાત્મય
 permalink: /
 cover: https://bhaveshpp.github.io/gita/assets/ka1.jpg
 ---
