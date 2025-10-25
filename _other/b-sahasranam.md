@@ -5,7 +5,7 @@ date: 2025-10-25
 category: other
 layout: post
 permalink: other/sahasranam
-# cover: https://bhaveshpp.github.io/gita/assets/lakshminarayan.jpg
+cover: https://bhaveshpp.github.io/gita/assets/lakshminarayan.jpg
 ---
 
 # श्रीविष्णुसहस्रनामस्तोत्रम् 
